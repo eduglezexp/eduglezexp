@@ -1,14 +1,14 @@
 <div style="position: relative; display: inline-block;">
   <img src="img/github-header-image.png" alt="Header">
   <img src="gif/dog-hi.gif" width="200" 
-  style="position: absolute; bottom: 7px; left: 498px;">
+  style="position: absolute; bottom: 7px; left: 498px;" markdown="1">
 </div>
 
-## <img src="gif/me.gif" width ="50" style="position: relative; bottom: -14px; left: -9px ">About Me 
+## <img src="gif/me.gif" width ="50">About Me 
 
 “Studying Multi‑Platform App Development (DAM) to build apps across all major platforms.”
 
-<img align="right" img src="gif/programming.gif" width="300px" style="position: relative; bottom: 12px;">
+<img align="right" img src="gif/programming.gif" width="300px">
 
 - 🔭 I am currently working on **a new project**
   
@@ -22,7 +22,7 @@
   
 - ⚡ Fun fact: **The first computer bug was a real moth, discovered in Harvard’s Mark II in 1947.**
 
-## <img src="gif/file.gif" width ="35" style="position: relative; bottom: -5px;">  Featured Projects
+## <img src="gif/file.gif" width ="35">  Featured Projects
 
 <div style="border: 2px solid #3498db; border-radius: 10px; padding: 15px; margin: 10px 0;" markdown="1">
 
