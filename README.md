@@ -18,7 +18,7 @@
 
 - 👉 *Click here to see my* [Featured Projects](#featured-projects)
 
-- 👉 *Click here to* [Connet with me](#connect-with-me)
+- 👉 *Click here to* [Connect with me](#connect-with-me)
   
 
 ## <img src="assets/gif/script-coding.gif" width ="25"> Programming Languages
@@ -64,7 +64,8 @@
 
 [![AquaLine](assets/img/aqua.png)]()
 
-## <img src="assets/gif/file.gif" width ="35">  Featured Projects
+<a id="featured-projects"></a>
+## <img src="assets/gif/file.gif" width ="35"> Featured Projects
 
 |     | Project | Description | Technologies |
 |-----|---------|-------------|------------|
@@ -73,6 +74,7 @@
 
 [![AquaLine](assets/img/aqua.png)]()
 
+<a id="connect-with-me"></a>
 ## Connect with me <img src='assets/gif/handshake.gif' width="100px">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
