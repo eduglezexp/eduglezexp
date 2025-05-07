@@ -4,7 +4,7 @@
 
 “Studying Multi‑Platform App Development (DAM) to build apps across all major platforms.”
 
-<img align="right" img src="assets/gif/programming.gif" width="288px">
+<img align="right" img src="assets/gif/programming.gif" width="300px">
 
 - 🔭 I am currently working on **a new project**
   
@@ -14,9 +14,12 @@
   
 - 💬 Ask me about **Java development** or anything else. I would be happy to help.
 
-- 📫 Reach out to me at: eduglezexp@gmail.com
-  
 - ⚡ Fun fact: **The first computer bug was a real moth, discovered in Harvard’s Mark II in 1947.**
+
+- 👉 *Click here to see my* [Featured Projects](#featured-projects)
+
+- 👉 *Click here to* [Connet with me](#connect-with-me)
+  
 
 ## <img src="assets/gif/script-coding.gif" width ="25"> Programming Languages
 
