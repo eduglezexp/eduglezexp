@@ -1,8 +1,4 @@
-<div style="position: relative; display: inline-block;">
-  <img src="img/github-header-image.png" alt="Header">
-  <img src="gif/dog-hi.gif" width="200" 
-  style="position: absolute; bottom: 7px; left: 498px;" markdown="1">
-</div>
+![Header](gif/github-header.gif)
 
 ## <img src="gif/me.gif" width ="50">About Me 
 
