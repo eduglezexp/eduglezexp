@@ -1,10 +1,10 @@
 ![Header](gif/github-header.gif)
 
-## <img src="gif/me.gif" width ="50">About Me 
+## <img src="gif/me.gif" width ="50"> About Me 
 
 “Studying Multi‑Platform App Development (DAM) to build apps across all major platforms.”
 
-<img align="right" img src="gif/programming.gif" width="280px">
+<img align="right" img src="gif/programming.gif" width="288px">
 
 - 🔭 I am currently working on **a new project**
   
