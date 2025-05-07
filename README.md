@@ -4,7 +4,7 @@
 
 “Studying Multi‑Platform App Development (DAM) to build apps across all major platforms.”
 
-<img align="right" img src="gif/programming.gif" width="300px">
+<img align="right" img src="gif/programming.gif" width="280px">
 
 - 🔭 I am currently working on **a new project**
   
@@ -17,30 +17,6 @@
 - 📫 Reach out to me at: eduglezexp@gmail.com
   
 - ⚡ Fun fact: **The first computer bug was a real moth, discovered in Harvard’s Mark II in 1947.**
-
-## <img src="gif/file.gif" width ="35">  Featured Projects
-
-<div style="border: 2px solid #3498db; border-radius: 10px; padding: 15px; margin: 10px 0;" markdown="1">
-
-  | **Project** | **Description** | **Technologies** |
-  |-------------|------------------|-------------------|
-  | 🕹️ **[Minesweeper](https://github.com/eduglezexp/minesweeper-app)** | _A refreshing minesweeper with new items_ | [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&alt=java-logo)](https://openjdk.org/) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![JavaFX](https://img.shields.io/badge/javafx-B71C1C.svg?style=for-the-badge&logo=javafx&logoColor=white)](https://openjfx.io/) |
-
-</div>
-
-<div style="border: 2px solid #3498db; border-radius: 10px; padding: 15px; margin: 10px 0;" markdown="1">
-
-  | **Project** | **Description** | **Technologies** |
-  |-------------|------------------|-------------------|
-  | ⭐ **[Star Wars Wiki](https://github.com/eduglezexp/star-wars-project)** | _A place you can use to learn about the world of Star Wars_ | [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&alt=java-logo)](https://openjdk.org/) [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) [![Hibernate](https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
-
-</div>
-
-## Connect with me <img src='gif/handshake.gif' width="100px">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.eduglezexp.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
 
 ## <img src="gif/script-coding.gif" width ="25"> Programming Languages
 
@@ -82,5 +58,22 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+
+[![AquaLine](img/aqua.png)]()
+
+## <img src="gif/file.gif" width ="35">  Featured Projects
+
+|     | Project | Description | Technologies |
+|-----|---------|-------------|------------|
+| 🕹️ | [**Minesweeper**](https://github.com/eduglezexp/minesweeper-app) | _A refreshing minesweeper with new items_ | [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&alt=java-logo)](https://openjdk.org/) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![JavaFX](https://img.shields.io/badge/javafx-B71C1C.svg?style=for-the-badge&logo=javafx&logoColor=white)](https://openjfx.io/) |
+| 🌌 | [**Star Wars Wiki**](https://github.com/eduglezexp/star-wars-project) | _A place you can use to learn about the world of Star Wars_ | [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&alt=java-logo)](https://openjdk.org/) [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) [![Hibernate](https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
+
+[![AquaLine](img/aqua.png)]()
+
+## Connect with me <img src='gif/handshake.gif' width="100px">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.eduglezexp.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
 
 [![AquaLine](img/aqua.png)]()
