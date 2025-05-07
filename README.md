@@ -1,6 +1,6 @@
 ![Header](gif/github-header.gif)
 
-## <img src="gif/me.gif" width="50" style="vertical-align: sub"> About Me
+## <img src="gif/me.gif" width="50" style="vertical-align: text-bottom"> About Me
 
 “Studying Multi‑Platform App Development (DAM) to build apps across all major platforms.”
 
@@ -61,7 +61,7 @@
 
 [![AquaLine](img/aqua.png)]()
 
-## <img src="gif/file.gif" width ="35" style="vertical-align: sub">  Featured Projects
+## <img src="gif/file.gif" width ="35" style="vertical-align: text-bottom">  Featured Projects
 
 |     | Project | Description | Technologies |
 |-----|---------|-------------|------------|
