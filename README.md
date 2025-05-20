@@ -68,8 +68,8 @@
 
 [![AquaLine](assets/img/aqua.png)]()
 
-<a id="featured-projects"></a>
 ## <img src="assets/gif/file.gif" width ="35"> Featured Projects
+<a id="featured-projects"></a>
 
 |     | Project | Description | Technologies |
 |-----|---------|-------------|------------|
@@ -78,8 +78,8 @@
 
 [![AquaLine](assets/img/aqua.png)]()
 
-<a id="connect-with-me"></a>
 ## Connect with me <img src='assets/gif/handshake.gif' width="100px">
+<a id="connect-with-me"></a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.eduglezexp.com)
