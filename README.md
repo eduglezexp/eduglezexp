@@ -6,7 +6,7 @@
 
 <img align="right" img src="assets/gif/programming.gif" width="300px">
 
-- 🏢 I am currently doing an internship at [SOLINCAN](https://www.solincan.com/)
+- 🏢 I am currently doing an internship at [**SOLINCAN**](https://www.solincan.com/)
 
 - 🔭 I am currently working on an **Authentication Microservice**
   
@@ -18,9 +18,9 @@
 
 - ⚡ Fun fact: **The first computer bug was a real moth, discovered in Harvard’s Mark II in 1947.**
 
-- 👉 *Click here to see my* [Featured Projects](#featured-projects)
+- 👉 *Click here to see my* [**Featured Projects**](#featured-projects)
 
-- 👉 *Click here to* [Connect with me](#connect-with-me)
+- 👉 *Click here to* [**Connect with me**](#connect-with-me)
   
 
 ## <img src="assets/gif/script-coding.gif" width ="25"> Programming Languages
