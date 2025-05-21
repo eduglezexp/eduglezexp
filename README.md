@@ -10,7 +10,7 @@
 
 - 🔭 I am currently working on an **Authentication Microservice**
   
-- 🌱 I am currently learning **JavaScript**
+- 🌱 I am currently learning **JavaScript and React**
   
 - 👯 I am looking to collaborate on **open source projects**
   
