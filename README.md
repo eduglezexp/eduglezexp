@@ -12,9 +12,9 @@
   
 - 🌱 I am currently learning **JavaScript and React**
   
-- 👯 I am looking to collaborate on **open source projects**
+- 👯 I am looking to collaborate on **Open Source Projects**
   
-- 💬 Ask me about **Java development** or anything else. I would be happy to help.
+- 💬 Ask me about **Java Development** or anything else. I would be happy to help.
 
 - ⚡ Fun fact: **The first computer bug was a real moth, discovered in Harvard’s Mark II in 1947.**
 
